@@ -1,0 +1,26 @@
+@startuml
+class User {
+	string name
+	string email
+}
+
+class Training {
+	string name
+	string description
+	
+	void CreateExercice(TrainingHistory)
+}
+
+class Programm {
+	string name
+}
+
+ProgrammHistory -- User
+ProgrammHistory -- Programm
+ProgrammHistory *-- Session
+
+User -- TrainingHistory
+Training -- TrainingHistory
+Programm *-- Training
+
+@enduml

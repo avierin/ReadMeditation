@@ -1,0 +1,18 @@
+bassin bizares 
+
+exercices:
+	ajouter des exercices d'étirement:
+		étirement progressif des bras vers les coté 
+		étirement progressif des bras vers le haut
+
+	ajouter les exercices de marche
+	ajouter les exercices d'apnée
+	ajouter les exercices qui qong
+
+
+remarque mo:
+  
+  pied flex / tendues
+  entrainement des bras ne va pas / pas assez d'explication
+  synchroniser avec la respiration 
+ 
